@@ -1,0 +1,11 @@
+C:\Git\FirstRepo\GitTraining\bin\Debug\netcoreapp2.1\GitTraining.deps.json
+C:\Git\FirstRepo\GitTraining\bin\Debug\netcoreapp2.1\GitTraining.runtimeconfig.json
+C:\Git\FirstRepo\GitTraining\bin\Debug\netcoreapp2.1\GitTraining.runtimeconfig.dev.json
+C:\Git\FirstRepo\GitTraining\bin\Debug\netcoreapp2.1\GitTraining.dll
+C:\Git\FirstRepo\GitTraining\bin\Debug\netcoreapp2.1\GitTraining.pdb
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.csprojAssemblyReference.cache
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.csproj.CoreCompileInputs.cache
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.AssemblyInfoInputs.cache
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.AssemblyInfo.cs
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.dll
+C:\Git\FirstRepo\GitTraining\obj\Debug\netcoreapp2.1\GitTraining.pdb
