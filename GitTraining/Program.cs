@@ -16,6 +16,16 @@ namespace GitTraining
                 Console.WriteLine(name);
 
             Console.ReadLine();
+
+            //a doua problema Vowel
+            Vowel vowel = new Vowel();
+            Console.WriteLine("The following names are starting with Vowels: ");
+
+            foreach (var name in namesList)
+                if (vowel.StartsWithVowel(name))
+                    Console.WriteLine(name);
+
+            Console.ReadLine();
         }
     }
 }
