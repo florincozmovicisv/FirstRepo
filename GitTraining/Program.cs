@@ -26,6 +26,17 @@ namespace GitTraining
                     Console.WriteLine(name);
 
             Console.ReadLine();
+
+            //a treia problema Car
+            Vehicle vehicle = new Vehicle { Make = "Ford", CurrentValue = 1225.25, Model = "Mondeo", Registration = 1996, Year = 1990 };
+            Car ford = new Car(vehicle);
+            Console.WriteLine(ford.ToString());
+
+            Car vw = new Car("VW", "Golf");
+
+            Console.WriteLine(vw.ToString());
+
+            Console.ReadKey();
         }
     }
 }
